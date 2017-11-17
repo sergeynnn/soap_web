@@ -1,0 +1,52 @@
+#parameters-definition {
+    text-align: center;
+}
+#show_hide_parameters_definition
+{
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.5%;
+    font-size: larger;
+}
+#parameter-definition-label {
+    display: inline-block;
+}
+#close_parameters_definition
+{
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.5%;
+    font-size: larger;
+}
+
+.show_params_sub_definition {
+    color: #4183C4;
+    cursor: pointer;
+    font-size: large;
+}
+
+.param_item {
+    cursor: pointer;
+    margin-left: 1%;
+}
+
+.hide {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+span.fictive_element {
+    font-size: large;
+    visibility: hidden;
+}
+
+.parameters_name {
+    display: inline-block;
+    margin-left: 1%;
+    color: #2d1cc9;
+    font-weight: bold;
+}
+

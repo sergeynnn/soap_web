@@ -1,0 +1,18 @@
+.message-send-status-label-container {
+    margin-bottom: 0.05% !important;
+}
+.message-send-status-label {
+    font-size: medium !important;
+}
+
+#header_label {
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+#header_label h2 {
+    display: inline;
+}
+#header_label h2 div.content {
+    padding-right: .5em;
+}

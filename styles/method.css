@@ -1,0 +1,114 @@
+#call_method {
+    margin-top: 1.5%;
+}
+
+#method_name {
+    font-size: medium;
+    color: blue;
+    display: inline-block;
+}
+
+#method_name_label {
+    text-align: center !important;
+
+}
+
+#close_call_method_place {
+    display: inline-block;
+    cursor: pointer;
+    float: right;
+    color: blue;
+    font-size: large;
+
+}
+
+.show_params_sub_definition:hover, .remove_parameter:hover, .show_params:hover, .show_response_sub_definition:hover, #close_call_method_place:hover,
+#close_response_tree:hover {
+    color: #9FB3C7;
+}
+
+
+.method-param-input {
+    width: 50% !important;
+    left: 1%;
+}
+
+.remove_parameter {
+    color: #4183C4;
+    cursor: pointer;
+    font-size: large;
+}
+
+.internal-list {
+    margin-left: 5.5% !important;
+    margin-bottom: 1% !important;
+}
+
+.remove_parameter_group {
+    margin-left: 1%;
+}
+
+#method_parameter_label {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+}
+
+#response_label {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    color: #5858e8;
+}
+
+li.primitive_parameter {
+    margin-bottom: 1%;
+}
+
+span.remove_primitive_parameter {
+    margin-right: 3%;
+}
+
+#method_parameter_label {
+    color: #5858e8;
+}
+
+.show_response_sub_definition {
+    margin-right: 1%;
+}
+
+.response-list {
+    margin-left: 5.5% !important;
+}
+
+.show_response_sub_definition {
+    cursor: pointer;
+    font-size: large;
+    color: #4183c4;
+}
+
+.request_primitive {
+    margin-bottom: 1%;
+}
+
+.visible {
+    display: block;
+}
+
+.invisible {
+    display: none;
+}
+
+#close_response_tree {
+    color: #5858e8;
+    cursor: pointer;
+}
+
+#message_place {
+    text-align: center;
+}
+
+#url, #url_label {
+    font-size: medium;
+}
+

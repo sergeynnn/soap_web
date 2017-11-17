@@ -1,0 +1,39 @@
+#main_container {
+	    max-width: inherit !important;
+}
+.method_item {
+	cursor: pointer;
+}
+
+#url {
+	font-style: italic;
+}
+
+.function_item {
+	cursor: pointer;
+}
+.allow_methods_label {
+    /*display: table !important;
+    margin: 0 auto !important;
+    margin-bottom: 10px !important;	*/
+	text-align: center;
+}
+
+.function_params {
+	font-size: small;
+}
+
+span.show_params {
+	color: #4183C4;
+	cursor: pointer;
+}
+
+.input-error {
+	border-color: red !important;
+
+}
+.e-mail {
+	display: inline;
+	font-size: large;
+	color: #4408f2;
+}

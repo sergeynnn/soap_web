@@ -1,0 +1,21 @@
+.radio-group {
+    display: table;
+}
+.lang-label {
+    cursor: pointer;
+}
+.lang-input {
+    display: none;
+}
+
+.lang-label {
+    color: #83A5C8;
+}
+
+.active-lang-label {
+    color: white;
+}
+
+.lang-label:hover {
+    color: #7AE054;
+}
